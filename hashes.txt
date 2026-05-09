@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Hadal Ahbek
+
+This log tracks the cryptographic history and versioning for the song **Hadal Ahbek** (hadal-ahbek).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T15:00:00.194875 | `v1` | `9a85a88642ac5f60c9826bd438c7d99ef23c297503e1c07d1907c87c2285f9ea` | `3d44eba5da51b9b009a3f50be510989ea3cce7edad373ab51c2ccc1b83d3deea` | `2026-05-09_hadal-ahbek-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
